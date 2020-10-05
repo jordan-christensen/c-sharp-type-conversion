@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharp-type-conversion", "c-sharp-type-conversion\c-sharp-type-conversion.csproj", "{F006427E-43E6-4546-99C5-B79CDC4CE3AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F006427E-43E6-4546-99C5-B79CDC4CE3AB}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F006427E-43E6-4546-99C5-B79CDC4CE3AB}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F006427E-43E6-4546-99C5-B79CDC4CE3AB}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F006427E-43E6-4546-99C5-B79CDC4CE3AB}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
